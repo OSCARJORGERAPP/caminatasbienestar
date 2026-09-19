@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const whatsappNumber = '5491137019068'; // REEMPLAZAR con tu número (ej: 54911xxxxxxx)
+  const whatsappNumber = '5491123098313'; // REEMPLAZAR con tu número (ej: 54911xxxxxxx)
 
   const waText = encodeURIComponent(
     'Hola, quiero reservar la sesión piloto de Caminatas de acompañamiento.\n' +
